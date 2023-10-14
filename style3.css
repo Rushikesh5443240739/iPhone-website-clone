@@ -1,0 +1,167 @@
+/* .s2 {
+    margin: 0 auto;
+    background: #FBFBFD;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    padding: 0px 262px 0px 0px;
+
+}
+
+.s2-pro {
+    font-family: SF Pro Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: -0.14399999380111694px;
+    text-align: center;
+    width: 338.77px;
+    height: 110px;
+    margin-top: 13px;
+    background: linear-gradient(90deg, #1E3791 0%, #2948B1 40%, #3153C6 55%, #385FDA 60%);
+    color: wheat;
+
+}
+
+.s2-learn {
+    width: 630px;
+    height: 36px;
+    margin-top: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.s2-about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 630px;
+    height: 265px;
+
+
+    display: flex;
+}
+
+
+#s2-button{
+    width: 100.2px;
+    height: 50px;
+    padding: 8px 15.6px 8px 16px;
+    border-radius: 980px;
+    background: #0071E3;
+    color: #fff;
+
+}
+
+.s2-img {
+    width: 756px;
+    height: 830px;
+
+    padding-right: 262px;
+
+}
+
+.s2-contant .s2-about p {
+    font-family: SF Pro Display;
+font-size: 21px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0.23100000619888306px;
+text-align: center;
+width: 468.35px;
+height: 50px;
+margin-top: 25px;
+
+
+}
+ span{
+    margin: 0 52px;
+    font-family: SF Pro Display;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0.23100000619888306px;
+    color: #0066CC;
+    width: auto;
+}
+.s2-learn #s2-button{
+    font-family: SF Pro Text;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.37400001287460327px;
+    text-align: center;
+} */
+
+/* .s3{
+    background-image: url('./img/s3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+height: 838px;
+}
+.s3 .s31{
+    font-family: SF Pro Display;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.2160000056028366px;
+    text-align: left;
+    width: 183.57px;
+    height: 29px;
+    top: -1px;color: rgba(255, 255, 255, 1);
+
+        
+}
+.s3 .s32{
+    font-family: SF Pro Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: -0.14399999380111694px;
+    text-align: left;
+    width: 296.57px;
+height: 110px;
+
+
+    
+}
+.s3 #s33{
+    width: 142.23px;
+    height: 36px;
+    padding: 8px 16px;
+    border-radius: 980px;
+    background: rgba(255, 255, 255, 1);
+
+    
+}
+.ss3 {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 501px;
+} */
+
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    background: #dddddd;
+
+}
+
+
+.footer .footer-main div ul li{
+    font-family: SF Pro Text;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+
+}

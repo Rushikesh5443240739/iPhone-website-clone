@@ -1,0 +1,115 @@
+.main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #f8f8f8;
+
+}
+
+.about h2 {
+    margin: 0 auto;
+    width: 34.78px;
+    height: 20px;
+    font-family: SF Pro Text;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: -0.37px;
+    text-align: center;
+    color: #6E6E73;
+
+}
+
+.img-iphone-png {
+    margin: 50px auto;
+    width: 788px;
+    height: 717px;
+
+}
+
+.learn span {
+    margin: 0 52px;
+    font-family: SF Pro Display;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0.23100000619888306px;
+
+    color: #0066CC;
+    width: auto;
+
+}
+
+.learn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 31px;
+
+
+}
+
+#button {
+
+    width: 61.2px;
+    height: 36px;
+    padding: 8px 15.6px 8px 16px;
+    border-radius: 980px;
+    background: #0071E3;
+    color: #fff;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.p {
+    background: linear-gradient(90deg, #2CA2B4 0%, #5598DE 24%, #7F87FF 45%, #F65AAD 76%, #EC3D43 100%);
+    font-family: SF Pro Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: -0.14px;
+    text-align: center;
+    opacity: 90%;
+    border-radius: 10px;
+    margin-bottom: 29px;
+
+}
+
+.about p {
+    font-family: SF Pro Display;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0.23px;
+    text-align: center;
+    color: #1D1D1F;
+    margin: 7px;
+
+}
+
+.bg-black .main {
+    background: #000 !important;
+}
+
+pro {
+    background: linear-gradient(180deg, #FFB6FF 0%, #B344FF 100%);
+
+}
+
+.bg-black .main .about p,
+.bg-black .main .about h1 {
+    color: #fff;
+
+}
+
+.bg-black .main .img-iphone-png {
+    width: 782px;
+    height: 542px;
+    margin-bottom: 20px;
+
+}
